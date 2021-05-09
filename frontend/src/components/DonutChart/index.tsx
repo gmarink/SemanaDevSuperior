@@ -9,12 +9,12 @@ type ChartData = {
 }
 
 function DonutChart() {
-    
+    //MODO ERRADO
     let chartData : ChartData = {
         labels: [],
         series:[]
     }
-    
+    //MODO ERRADO
     axios.get(`${BASE_URL}+'/sales/amount-by-seller'`)
     .then(response => {
         const data = response.data as SaleSum[];
