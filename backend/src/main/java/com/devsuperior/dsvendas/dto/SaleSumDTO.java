@@ -12,6 +12,7 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 public class SaleSumDTO implements Serializable {
 
+    private static final long serialVersionUID = 1L;
     private String sellerName;
     private Double sum;
 
