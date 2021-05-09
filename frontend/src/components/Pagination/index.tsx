@@ -14,10 +14,10 @@ const Pagination = ({ page, onPageChange } : Props) => {
                     <li className="page-item">
                         <button className="page-link" onClick={() => onPageChange(page.number -1)}>Anterior</button>
                     </li>
-                    <li className="{`page-item ${page.first ? 'disabled' : ''}`}">
+                    <li className={`page-item ${page.first ? 'disabled' : ''}`}>
                         <span className="page-link">{page.number +1}</span>
                     </li>
-                    <li className="{`page-item ${page.last ? 'disabled' : ''}`}">
+                    <li className={`page-item ${page.last ? 'disabled' : ''}`}>
                         <button className="page-link" onClick={() => onPageChange(page.number +1)}>Próxima</button>
                     </li>
                 </ul>
