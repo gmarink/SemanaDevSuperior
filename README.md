@@ -24,6 +24,7 @@
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
@@ -44,6 +45,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Deshboard da SDS3 é um projeto que visa conectar desenvolvedores próximos a você que trabalham com as mesmas tecnologias.
  
+## 🔖 Layout
+
+<p align="center">
+  <img alt="Frontend Index" src=".github/index-sds3.png" width="100%">
+  <img alt="Frontend Dashboard" src=".github/dashboard-sds3.png" width="100%">
+
+</p>
 
 ## 🤔 Como contribuir
 
